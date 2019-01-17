@@ -10,11 +10,6 @@ svg.gb_kf, svg.gb_lf {
     opacity: 1 !important;
 }
 
-.mIwOed .xSP5ic {
-    color: white !important;
-    fill: white !important;
-}
-
 .BHRAjf.xSP5ic {
     color: #4b4b4b !important;
     fill: #4b4b4b !important;
@@ -24,7 +19,7 @@ svg.gb_kf, svg.gb_lf {
     color: rgb(225, 225, 225) !important;
 }
 
-.cjq2Db {
+.cjq2Db, .mIwOed .xSP5ic {
     color: white !important;
     fill: white !important;
 }
