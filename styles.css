@@ -1,6 +1,7 @@
 body {
     background-color: #E0E0E0 !important;
 }
+
 nav, .FXKA9c {
     background-color: #4b4b4b !important;
 }
@@ -23,42 +24,17 @@ span.YVvGBb.kvxTzd.A6dC2c:hover {
     fill: white !important;
 }
 
-a.u2mfde.hN1OOc.EZrbnd.J1raN.VnOHwf-Wvd9Cc.TzZJIf.S6Vdac,
-a.onkcGd.kj3hr.YVvGBb > div.nk37z.YVvGBb.csjh4b,
-.onkcGd,
-.onkcGd:visited,
-.wy758b,
-span.KR1He,
-.DShyMc-MTU3NDI2MDU5NDNa.VnOHwf-Wvd9Cc,
-.DShyMc-MTU3NDI2MDU5NDNa .VnOHwf-Wvd9Cc,
-.DShyMc-MTU3NDI2MDU5NDNa.CNpREd .VnOHwf-Wvd9Cc,
-a.u2mfde.hN1OOc.EZrbnd.GblU6b.VnOHwf-Tvm9db.jgGPR.TzZJIf.S6Vdac,
-.DShyMc-MTU3NDI2MDU5NDNa.VnOHwf-Tvm9db,
-.DShyMc-MTU3NDI2MDU5NDNa .VnOHwf-Tvm9db,
-.DShyMc-MTU3NDI2MDU5NDNa.CNpREd .VnOHwf-Tvm9db,
-a.onkcGd.kj3hr.YVvGBb > div.YVvGBb.csjh4b,
-a.u2mfde.hN1OOc.EZrbnd.GblU6b.VnOHwf-Tvm9db.eumXzf.S6Vdac,
-a.u2mfde.hN1OOc.EZrbnd.J1raN.VnOHwf-Wvd9Cc.S6Vdac,
-a.gb_z,
-svg.gb_kf,
-svg.gb_lf,
-svg.gb_mf,
-svg.gb_ja,
-svg.gb_Ie,
-svg.gb_Fe,
-svg.gb_Ke,
-svg.gb_se,
-svg.gb_pe,
-svg.gb_oe,
-svg.gb_We,
-svg.gb_Je {
+a.u2mfde.hN1OOc.EZrbnd.J1raN.VnOHwf-Wvd9Cc.TzZJIf.S6Vdac, a.onkcGd.kj3hr.YVvGBb>div.nk37z.YVvGBb.csjh4b, .onkcGd, .onkcGd:visited, .wy758b, span.KR1He, .DShyMc-MTU3NDI2MDU5NDNa.VnOHwf-Wvd9Cc, .DShyMc-MTU3NDI2MDU5NDNa .VnOHwf-Wvd9Cc, .DShyMc-MTU3NDI2MDU5NDNa.CNpREd .VnOHwf-Wvd9Cc, a.u2mfde.hN1OOc.EZrbnd.GblU6b.VnOHwf-Tvm9db.jgGPR.TzZJIf.S6Vdac, .DShyMc-MTU3NDI2MDU5NDNa.VnOHwf-Tvm9db, .DShyMc-MTU3NDI2MDU5NDNa .VnOHwf-Tvm9db, .DShyMc-MTU3NDI2MDU5NDNa.CNpREd .VnOHwf-Tvm9db, a.onkcGd.kj3hr.YVvGBb>div.YVvGBb.csjh4b, a.u2mfde.hN1OOc.EZrbnd.GblU6b.VnOHwf-Tvm9db.eumXzf.S6Vdac, a.u2mfde.hN1OOc.EZrbnd.J1raN.VnOHwf-Wvd9Cc.S6Vdac, a.gb_z, svg.gb_kf, svg.gb_lf, svg.gb_mf, svg.gb_ja, svg.gb_Ie, svg.gb_Fe, svg.gb_Ke, svg.gb_se, svg.gb_pe, svg.gb_oe, svg.gb_We, svg.gb_Je, .gb_na svg, .gb_Cc svg, .gb_5c .gb_be, .gb_Pc .gb_be {
     color: white !important;
     opacity: 1 !important;
 }
 
-
 .DShyMc-MTU3NDI2MDU5NDNa .jgGPR:after, a.u2mfde.hN1OOc.EZrbnd.GblU6b.VnOHwf-Tvm9db.jgGPR.TzZJIf.S6Vdac:after, .hN1OOc.eumXzf:after {
     border-color: white !important;
+}
+
+.sdDCme {
+    color: rgba(0,0,0,0.549);
 }
 
 .VnOHwf-Tvm9db.XjYjO, span.ejBOve {
@@ -74,7 +50,7 @@ tr.d6CWTd.lkqKH.qRU9Ec {
 }
 
 .Aopndd, .mIwOed .d4Fe0d, div.zOtZye.LBlAUc.GWZ7yf.nmFHZb {
-    box-shadow: 0 1px 3px rgba(0,0,0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
     border: 0rem solid #dadce0 !important;
     border-radius: 0.4rem !important;
     -webkit-border-radius: 0.4rem !important;
@@ -116,7 +92,7 @@ a.onkcGd.YVvGBb {
     color: #4285f4 !important;
 }
 
-a.onkcGd.kj3hr.YVvGBb > div.YVvGBb, span.YVvGBb.dDKhVc {
+a.onkcGd.kj3hr.YVvGBb>div.YVvGBb, span.YVvGBb.dDKhVc {
     color: #b6b6b6 !important;
 }
 
