@@ -2,7 +2,7 @@
     "manifest_version": 2,
    
     "name": "Make Classroom Great Again",
-    "version": "0.2.10",
+    "version": "0.2.11",
     "description": "Add more CSS to make the new Google Classroom design look better.",
    
     "content_scripts": [{
